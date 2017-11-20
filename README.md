@@ -4,7 +4,7 @@ myRepository
         "http://www.w3.org/TR/html4/loose.dtd">
 <html ng-app>
 <head>
-    <title>title</title>
+    <title>你</title>
     <meta charset="UTF-8">
     <script src="lib/angular/angular.min.js"></script>
 </head>
